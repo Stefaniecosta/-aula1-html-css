@@ -1,0 +1,24 @@
+div {
+    width: 100%;
+}
+
+.div1 {
+    background-color: lightpink;
+    height: 40px;
+}
+
+.div2 {
+    height: 500px;
+    background-color: rgb(240, 118, 118);
+}
+
+.div3 {
+    height: 50px;
+    background-color:lightpink ;
+}
+
+.div4 {
+
+    min-height: 50px;
+    background-color: rgb(24, 9, 9);
+}
